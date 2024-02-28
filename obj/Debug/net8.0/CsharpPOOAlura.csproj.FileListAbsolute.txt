@@ -1,0 +1,14 @@
+D:\Dados\Trabalhos\Programação\Alura\CsharpPOOAlura\CsharpPOOAlura\CsharpPOOAlura\bin\Debug\net8.0\CsharpPOOAlura.exe
+D:\Dados\Trabalhos\Programação\Alura\CsharpPOOAlura\CsharpPOOAlura\CsharpPOOAlura\bin\Debug\net8.0\CsharpPOOAlura.deps.json
+D:\Dados\Trabalhos\Programação\Alura\CsharpPOOAlura\CsharpPOOAlura\CsharpPOOAlura\bin\Debug\net8.0\CsharpPOOAlura.runtimeconfig.json
+D:\Dados\Trabalhos\Programação\Alura\CsharpPOOAlura\CsharpPOOAlura\CsharpPOOAlura\bin\Debug\net8.0\CsharpPOOAlura.dll
+D:\Dados\Trabalhos\Programação\Alura\CsharpPOOAlura\CsharpPOOAlura\CsharpPOOAlura\bin\Debug\net8.0\CsharpPOOAlura.pdb
+D:\Dados\Trabalhos\Programação\Alura\CsharpPOOAlura\CsharpPOOAlura\CsharpPOOAlura\obj\Debug\net8.0\CsharpPOOAlura.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dados\Trabalhos\Programação\Alura\CsharpPOOAlura\CsharpPOOAlura\CsharpPOOAlura\obj\Debug\net8.0\CsharpPOOAlura.AssemblyInfoInputs.cache
+D:\Dados\Trabalhos\Programação\Alura\CsharpPOOAlura\CsharpPOOAlura\CsharpPOOAlura\obj\Debug\net8.0\CsharpPOOAlura.AssemblyInfo.cs
+D:\Dados\Trabalhos\Programação\Alura\CsharpPOOAlura\CsharpPOOAlura\CsharpPOOAlura\obj\Debug\net8.0\CsharpPOOAlura.csproj.CoreCompileInputs.cache
+D:\Dados\Trabalhos\Programação\Alura\CsharpPOOAlura\CsharpPOOAlura\CsharpPOOAlura\obj\Debug\net8.0\CsharpPOOAlura.dll
+D:\Dados\Trabalhos\Programação\Alura\CsharpPOOAlura\CsharpPOOAlura\CsharpPOOAlura\obj\Debug\net8.0\refint\CsharpPOOAlura.dll
+D:\Dados\Trabalhos\Programação\Alura\CsharpPOOAlura\CsharpPOOAlura\CsharpPOOAlura\obj\Debug\net8.0\CsharpPOOAlura.pdb
+D:\Dados\Trabalhos\Programação\Alura\CsharpPOOAlura\CsharpPOOAlura\CsharpPOOAlura\obj\Debug\net8.0\CsharpPOOAlura.genruntimeconfig.cache
+D:\Dados\Trabalhos\Programação\Alura\CsharpPOOAlura\CsharpPOOAlura\CsharpPOOAlura\obj\Debug\net8.0\ref\CsharpPOOAlura.dll
